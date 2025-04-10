@@ -90,5 +90,6 @@ printf("pontos turisticos:%d\n", pontosturisticos2);
  
 
 
-    return 0; // Indica que o programa foi executado com sucesso, sem erros
+    return 0; // Indica que o programa foi executado com sucesso
+    
 }
